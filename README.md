@@ -1,4 +1,6 @@
-# ![TrustD.Solutions](./images/logo-no-bg.png)
+<p align="center"><img src="images/logo-no-bg.png"></img></p>
+
+> "Site reliability engineering is a discipline that incorporates aspects of software engineering and applies them to infrastructure and operations problems."
 
 ## What we do?
 - We are a DevOps Consulting company. Our clients hire us as a permanent outsourced DevOps partner.
