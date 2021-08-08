@@ -36,11 +36,11 @@ and our engineers enjoy wearing many technology hats of a small boutique firm wi
 $30-40 hourly rate (USD) up to 40hrs/week
 
 ## Benefits
-- [ ] 100% remote, full-time position
-- [ ] Competitive compensation
-- [ ] Work with cutting-edge technology - NO legacy systems!
-- [ ] Online Continuing Education
-- [ ] Career advancement opportunities
+- [x] 100% remote, full-time position
+- [x] Competitive compensation
+- [x] Work with cutting-edge technology - NO legacy systems!
+- [x] Online Continuing Education
+- [x] Career advancement opportunities
 
 
 # How to apply
