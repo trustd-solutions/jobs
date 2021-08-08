@@ -1,5 +1,11 @@
 # Senior Site Reliability Engineer (Remote)
 
+## What we do?
+- We are a DevOps Consulting company. Our clients hire us as a permanent outsourced DevOps partner.
+- We specialize in working with Kubernetes and cloud-native projects in the major Cloud providers 
+and our engineers enjoy wearing many technology hats of a small boutique firm without the corporate headaches.
+- If you want to make fast-paced decisions, work in a thriving environment with technologies like EKS/GKE, Terraform, Helm, CI/CD, and learn alongside a group of amazing people... Apply now!
+
 ## Duties
 - [ ] Build and maintain tools for deployment, monitoring, and operations
 - [ ] Troubleshoot and resolve issues in client lower and production environments
@@ -36,4 +42,4 @@ $30-40 hourly rate (USD) up to 40hrs/week
 
 
 # How to apply
-Send us a message with your name and Linkedin URL [Contact Page](https://trustd.solutions/contact/)
+Access our [Contact Page](https://trustd.solutions/contact/) and send us a message with the Subject `Senior SRE job` and your Linkedin URL in the Message field.

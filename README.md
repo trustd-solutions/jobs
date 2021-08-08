@@ -10,4 +10,4 @@ and our engineers enjoy wearing many technology hats of a small boutique firm wi
 
 # Jobs
 
-- [Senior Site Reliability Engineer](./sre-sre.md)
+- [Senior Site Reliability Engineer](./senior-sre.md)
