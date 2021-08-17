@@ -39,9 +39,9 @@ $30-40 hourly rate (USD) up to 40hrs/week
 - [x] 100% remote, full-time position
 - [x] Competitive compensation
 - [x] Work with cutting-edge technology - NO legacy systems!
-- [x] Online Continuing Education
+- [x] Online Continuing Education (Cloud Academy)
 - [x] Career advancement opportunities
 
 
 # How to apply
-Access our [Contact Page](https://trustd.solutions/contact/) and send us a message with the Subject `Senior SRE job` and your Linkedin URL in the Message field.
+Email us at staff@trustd.solutions with the Subject `Senior SRE job` and your contact information in the body(Phone, and Linkedin URL).
