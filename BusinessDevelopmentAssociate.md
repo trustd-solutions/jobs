@@ -35,4 +35,4 @@ and our engineers enjoy wearing many technology hats of a small boutique firm wi
 
 
 # How to apply
-Email us at staff@trustd.solutions with the Subject `BBusiness Development Associate` and your contact information in the body(Phone, and Linkedin URL).
+Email us at staff@trustd.solutions with the Subject `Business Development Associate` and your contact information in the body(Phone, and Linkedin URL).
