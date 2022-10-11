@@ -1,4 +1,4 @@
-# ![TrustD.Solutions](./images/logo-no-bg.png)
+# ![TrustD.Solutions](../images/logo-no-bg.png)
 
 # Senior Site Reliability Engineer (Remote)
 
