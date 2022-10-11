@@ -1,14 +1,15 @@
 # ![TrustD.Solutions](../images/logo-no-bg.png)
 
-# Senior Site Reliability Engineer (Remote)
+# Site Reliability Engineer (Remote)
 
-## What we do?
+## What do we do?
 - We are a DevOps Consulting company. Our clients hire us as a permanent outsourced DevOps partner.
-- We specialize in working with Kubernetes and cloud-native projects in the major Cloud providers 
-and our engineers enjoy wearing many technology hats of a small boutique firm without the corporate headaches.
-- If you want to make fast-paced decisions, work in a thriving environment with technologies like EKS/GKE, Terraform, Helm, CI/CD, and learn alongside a group of amazing people... Apply now!
+- We specialize in working with Kubernetes and cloud-native projects in the major Cloud providers. Our engineers enjoy wearing many technology hats of a small boutique firm without the corporate headaches.
 
-## Duties
+If you want to work in a thriving fast-paced environment with technologies like EKS/GKE, Terraform, Helm, Argo/Flux and learn alongside a group of amazing people, Apply now!
+
+## Responsibilities
+- [ ] Above all things, LEARN from our fellow SREs
 - [ ] Build and maintain tools for deployment, monitoring, and operations
 - [ ] Troubleshoot and resolve issues in client lower and production environments
 - [ ] Automate and streamline client operations and processes
@@ -21,7 +22,8 @@ and our engineers enjoy wearing many technology hats of a small boutique firm wi
 - [ ] Develop and improve operational practices and procedures
 
 ## Requirements
-- [ ] Solid English communication skills
+- [ ] Solid written English communication skills
+- [ ] Will to improve your written & spoken English communication skills
 - [ ] Experience in production-ready operations, preferably supporting highly available environments.
 - [ ] Experience with designing and maintaining modern application CI/CD pipelines (e.g. Github Actions, GitLab, Jenkins).
 - [ ] Hands-on experience with cloud infrastructure environments (AWS, GCP)
@@ -32,8 +34,8 @@ and our engineers enjoy wearing many technology hats of a small boutique firm wi
 - [ ] Knowledge of developing workflow tools
 - [ ] Comfortable working in Scrum teams or Kanban
 
-## Salary
-$30-40 hourly rate (USD) up to 40hrs/week
+## Compensation
+This is a full-time role. Our rate ranges from USD 30 to USD 45/h
 
 ## Benefits
 - [x] 100% remote, full-time position
@@ -44,4 +46,4 @@ $30-40 hourly rate (USD) up to 40hrs/week
 
 
 # How to apply
-Email us at staff@trustd.solutions with the Subject `Senior SRE job` and your contact information in the body(Phone, and Linkedin URL).
+Email us at staff@trustd.solutions with the Subject `SRE job` and your contact information in the body (Phone, and Linkedin URL).
