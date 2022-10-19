@@ -38,4 +38,4 @@ This is a full-time role. Our rate ranges from USD 10 to USD 15/h
 - [x] Career advancement opportunities
 
 # How to apply
-Email us at staff@trustd.solutions with the Subject `Junior SRE role` and your contact information in the body (Phone number, CV, or LinkedIn profile link).
+Email us at jobs@trustd.solutions with the Subject `Junior SRE role` and your contact information in the body (Phone number, CV, or LinkedIn profile link).
