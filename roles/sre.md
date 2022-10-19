@@ -46,4 +46,4 @@ This is a full-time role. Our rate ranges from USD 30 to USD 45/h
 
 
 # How to apply
-Email us at staff@trustd.solutions with the Subject `SRE job` and your contact information in the body (Phone, and Linkedin URL).
+Email us at jobs@trustd.solutions with the Subject `SRE job` and your contact information in the body (Phone, and Linkedin URL).
